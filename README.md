@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi i am Vishnu,i am pursuing Information Technology in Rajalakshmi Engineering College,I’m looking to collaborate on Backend projects and ML models
+Hi i am Vishnuraj,i am pursuing Information Technology in Rajalakshmi Engineering College,I’m looking to collaborate on Backend projects and ML models
 
 
 # 💻 Tech Stack:
